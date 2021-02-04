@@ -25,5 +25,5 @@ Prueba001
     CLose Browser
 
 
-#xpath=['//*[@id="homefeatured"]/li[1]/div/div[2]/h5/a']'
-#xpath=//*[@id="homefeatured"]/li[1]/div/div[2]/h5/a
+xpath=['//*[@id="homefeatured"]/li[1]/div/div[2]/h5/a']'
+xpath=//*[@id="homefeatured"]/li[1]/div/div[2]/h5/a
